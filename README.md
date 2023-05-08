@@ -20,7 +20,7 @@ updated Nov 28, 2022)
 
 [Avrae source code](https://github.com/avrae/avrae)
 
-Cite us:
+## Citation
 
 ```bibtex
 @inproceedings{FIREBALL,
@@ -30,6 +30,8 @@ Cite us:
     month = 07,
     year = "2023",
     url = "https://arxiv.org/abs/2305.01528",
+    eprint = "2305.01528",
+    archivePrefix = "arXiv",
     address = "Toronto, Canada"
 }
 ```
