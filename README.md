@@ -70,7 +70,7 @@ following keys:
 - `event_type`: One of the above. Defines the other keys available in this event body.
 - `timestamp`: The time this event was generated, as a UNIX timestamp.
 
-The remaining event schema is defined in `event_definitions.py`.
+The remaining event schema is defined [here](https://github.com/avrae/avrae/blob/v4.2.2/cogs5e/initiative/upenn_nlp.py).
 
 ## Filtered Triples Schema (filtered_triples.jsonl)
 
