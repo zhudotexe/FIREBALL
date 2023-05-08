@@ -20,6 +20,20 @@ updated Nov 28, 2022)
 
 [Avrae source code](https://github.com/avrae/avrae)
 
+Cite us:
+
+```bibtex
+@inproceedings{FIREBALL,
+    title = "FIREBALL: A Dataset of \textit{Dungeons and Dragons} Actual-Play with Structured Game State Information",
+    author = "Zhu, Andrew and Aggarwal, Karmanya and Feng, Alexander and Martin, Lara J. and Callison-Burch, Chris",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)",
+    month = 07,
+    year = "2023",
+    url = "https://arxiv.org/abs/2305.01528",
+    address = "Toronto, Canada"
+}
+```
+
 ## This Repository
 
 FIREBALL is pretty large, so this repo contains only a single combat instance in the same format found in the full
