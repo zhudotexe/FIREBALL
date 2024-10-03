@@ -11,10 +11,13 @@
 > metrics and human judgments of quality. Additionally, we show that LLMs can generate executable Avrae commands,
 > particularly after finetuning.
 
-[Read the paper here!](https://arxiv.org/abs/2305.01528)
+
+
+[Read the paper here!](https://aclanthology.org/2023.acl-long.229/)
 
 [Download the dataset!](https://datasets.mechanus.zhu.codes/fireball-anonymized-nov-28-2022-kfdjl.tar.gz) (7.7GB; last
 updated Nov 28, 2022)
+**Note**: This dataset is now on HuggingFace: [https://huggingface.co/datasets/lara-martin/FIREBALL](https://huggingface.co/datasets/lara-martin/FIREBALL)
 
 [Dataset preprocessing code](https://github.com/zhudotexe/FIREBALL-data-processing)
 
@@ -29,7 +32,8 @@ updated Nov 28, 2022)
     booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)",
     month = 07,
     year = "2023",
-    url = "https://arxiv.org/abs/2305.01528",
+    url = "https://aclanthology.org/2023.acl-long.229/",
+    doi = "10.18653/v1/2023.acl-long.229",
     eprint = "2305.01528",
     archivePrefix = "arXiv",
     address = "Toronto, Canada"
