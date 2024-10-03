@@ -17,7 +17,7 @@
 
 [Download the dataset!](https://datasets.mechanus.zhu.codes/fireball-anonymized-nov-28-2022-kfdjl.tar.gz) (7.7GB; last
 updated Nov 28, 2022)
-**Note**: This dataset is now on HuggingFace: [https://huggingface.co/datasets/lara-martin/FIREBALL](https://huggingface.co/datasets/lara-martin/FIREBALL)
+**Note: This dataset is now on [HuggingFace](https://huggingface.co/datasets/lara-martin/FIREBALL)!!**
 
 [Dataset preprocessing code](https://github.com/zhudotexe/FIREBALL-data-processing)
 
@@ -35,6 +35,7 @@ updated Nov 28, 2022)
     url = "https://aclanthology.org/2023.acl-long.229/",
     doi = "10.18653/v1/2023.acl-long.229",
     eprint = "2305.01528",
+    pages = "4171–4193",
     archivePrefix = "arXiv",
     address = "Toronto, Canada"
 }
